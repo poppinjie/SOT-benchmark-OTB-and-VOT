@@ -8,7 +8,7 @@ http://www.visual-tracking.net
 ## VOT benchmark
 
 ### VOT2016
-[SiamFC](https://github.com/bertinetto/siamese-fc)
+[SiamFC](https://github.com/bertinetto/siamese-fc) \br
 [C-COT](https://github.com/martin-danelljan/Continuous-ConvOp)
 [Staple](https://github.com/bertinetto/staple)
 [ColorKCF](https://github.com/psenna/KF-EBT)
