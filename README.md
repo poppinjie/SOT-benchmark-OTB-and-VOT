@@ -33,14 +33,4 @@ http://www.visual-tracking.net
 [MEEM](https://github.com/lukacu/visual-tracking-matlab)
 [SRDCF](http://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/index.html)
 
-### VOT2018
-
-
-
-### VOT2019
-
-
-### VOT2020
-
-
-### VOT2021
+### To be continued
