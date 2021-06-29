@@ -26,11 +26,11 @@ http://www.visual-tracking.net
 [MIL](https://github.com/lukacu/mil)
 
 ### VOT2017
-[CMT](https://github.com/gnebehay/CMT)
-[CSRDCF](https://github.com/alanlukezic/csr-dcf)
-[DSST](http://www.cvl.isy.liu.se/research/objrec/visualtracking/scalvistrack/index.html)
-[L1APG](https://github.com/lukacu/visual-tracking-matlab)
-[MEEM](https://github.com/lukacu/visual-tracking-matlab)
+[CMT](https://github.com/gnebehay/CMT)  
+[CSRDCF](https://github.com/alanlukezic/csr-dcf)  
+[DSST](http://www.cvl.isy.liu.se/research/objrec/visualtracking/scalvistrack/index.html)  
+[L1APG](https://github.com/lukacu/visual-tracking-matlab)  
+[MEEM](https://github.com/lukacu/visual-tracking-matlab)  
 [SRDCF](http://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/index.html)
 
 ### To be continued
